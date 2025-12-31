@@ -1,1 +1,1 @@
-# Claude-Code-Playground-
+This is a general repo for learning and experimenting how to effectively use claude code in a fun way.
